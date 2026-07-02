@@ -13,7 +13,7 @@ I built this to understand how neural networks actually work under the hood — 
 - Gradient descent training loop
 
 ## Result
-- **95.64% accuracy** on the MNIST test set (data the network never trained on)
+- **95.94% accuracy** on the MNIST test set (data the network never trained on)
 
   <img width="424" height="409" alt="image" src="https://github.com/user-attachments/assets/86cbb13f-bfa8-4ebe-b4fc-2b2302b2a2e4" />
 
