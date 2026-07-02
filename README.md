@@ -15,6 +15,9 @@ I built this to understand how neural networks actually work under the hood — 
 ## Result
 - **95.64% accuracy** on the MNIST test set (data the network never trained on)
 
+  <img width="424" height="409" alt="image" src="https://github.com/user-attachments/assets/86cbb13f-bfa8-4ebe-b4fc-2b2302b2a2e4" />
+
+
 ## Tech
 - Python, NumPy
 - TensorFlow is used *only* to load the MNIST dataset — not for the network itself.
